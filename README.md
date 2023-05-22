@@ -1,4 +1,4 @@
-# Basketball-Match-Analysis
+# Baseball-Match-Analysis
 Begninner level Internship project from iNeuron
 
 Technologies BigData
